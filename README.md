@@ -102,7 +102,7 @@ All four alternative hypotheses confirmed at α = 0.05.
 
 ## 📄 Paper Format
 
-The final paper (`IEEE_Formatted_Paper.docx`) is formatted according to the **IEEE A4 Conference Paper Template** with:
+The final paper (`Research Paper.docx`) is formatted according to the **IEEE A4 Conference Paper Template** with:
 - Two-column layout, Times New Roman 10pt body text
 - Roman numeral section headings in small caps
 - IEEE-style reference formatting [1]–[21]
